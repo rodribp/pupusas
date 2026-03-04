@@ -1,0 +1,5 @@
+{
+  "name": "Pupusería POS",
+  "description": "Sistema de punto de venta para pupusería con roles de mesero y cocinero, sincronización en tiempo real y cálculo de tiempos estimados.",
+  "requestFramePermissions": []
+}
